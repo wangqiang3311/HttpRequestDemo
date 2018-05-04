@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+      <Item key="IsStartThread" value="0" />
+      <Item key="ThreadCount" value="3" />
+      <Item key="SleepSecond" value="5" />
+</Setting>

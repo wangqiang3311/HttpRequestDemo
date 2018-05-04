@@ -1,0 +1,8 @@
+D:\mywork\ConsoleApplication1\HttpRequestTest\bin\Debug\setting.xml
+D:\mywork\ConsoleApplication1\HttpRequestTest\bin\Debug\HttpRequestTest.exe
+D:\mywork\ConsoleApplication1\HttpRequestTest\bin\Debug\HttpRequestTest.pdb
+D:\mywork\ConsoleApplication1\HttpRequestTest\obj\Debug\HttpRequestTest.exe
+D:\mywork\ConsoleApplication1\HttpRequestTest\obj\Debug\HttpRequestTest.pdb
+D:\mywork\ConsoleApplication1\HttpRequestTest\bin\Debug\System.Net.Http.dll
+D:\mywork\ConsoleApplication1\HttpRequestTest\bin\Debug\System.Net.Http.Formatting.dll
+D:\mywork\ConsoleApplication1\HttpRequestTest\obj\Debug\HttpRequestTest.csprojResolveAssemblyReference.cache
